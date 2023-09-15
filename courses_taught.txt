@@ -1,0 +1,27 @@
+CSCI 490 Fundamental Models and Algorithms in Bioinformatics
+INFO 519 Fundamental Models and Algorithms in Bioinformatics
+B441 Digital Design
+B639 Digital Preservation
+C335 Computer Structures
+Center for Complex Networks and Systems Research
+Computer Vision Lab
+Center for Bioinformatics Research
+A201 Introduction to Programming I
+A290 Tools for Computing: iOS Application Development
+B481 Interactive Graphics
+B581 Advanced Computer Graphics
+C200 Introduction to Computers and programming
+C322 Object-Oriented Software Methods
+C323 Mobile App Development (iOS)
+C335 Computer Structures
+C343 Data Structures
+H343 Data Structures, Honors
+I399 Current Topics in Informatics: iOS Application Development
+B522 Programming Language Foundations
+C343 Data Structures
+P423 Compilers
+I529 Biological Sequence Analysis
+Center for Bioinformatics Research
+A201 / A597 Introduction to Programming I
+Center for Bioinformatics Research
+Quantum Science and Engineering Center
